@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Jain</h1>
 <h3 align="center">A passionate developer from India who loves building things for people to use.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Dark-Knight499/Dark-Knight499/blob/main/readme_gif.gif" >
+<img align="right" alt="Coding" width="300" src="https://github.com/Dark-Knight499/Dark-Knight499/blob/main/readme_gif.gif" >
 
 - 🔭 I’m currently working on [Cosmic-Hacktivist-Seismic-Detection](https://github.com/Dark-Knight499/Cosmic-Hacktivist-Seismic-Detection)
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, GenAI**
