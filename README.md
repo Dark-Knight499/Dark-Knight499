@@ -1,7 +1,8 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/search?q=matrix+banner+dark+&sca_esv=0d27d0d2bdbaf579&cs=1&hl=en&udm=2&biw=1495&bih=735&sxsrf=ADLYWIKA0uO0d6-3fPuCZ3MXU0Jutm0bdw%3A1726174600226&ei=iFXjZtDMDcSenesPl5mroQo&ved=0ahUKEwjQsPe-pb6IAxVET2cHHZfMKqQQ4dUDCBA&uact=5&oq=matrix+banner+dark+&gs_lp=Egxnd3Mtd2l6LXNlcnAiE21hdHJpeCBiYW5uZXIgZGFyayBI5g9QWFjIDXABeACQAQCYAYUBoAHLBaoBAzAuNrgBA8gBAPgBAZgCA6AC-gHCAgoQABiABBhDGIoFwgIFEAAYgATCAgYQABgHGB7CAgYQABgIGB7CAgcQABiABBgYwgIEEAAYHsICBhAAGAUYHpgDAIgGAZIHAzEuMqAH3wY&sclient=gws-wiz-serp#vhid=Y2rx9gvKMxarQM&vssid=mosaic))]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Harsh Jain</h1>
 <h3 align="center">A passionate developer from India who loves building things for people to use.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://github.com/rudrabarad/Gifs)">
+<img align="right" alt="Coding" width="400" src="[https://github.com/rudrabarad/Gifs]">
 
 - 🔭 I’m currently working on [Cosmic-Hacktivist-Seismic-Detection](https://github.com/Dark-Knight499/Cosmic-Hacktivist-Seismic-Detection)
 
