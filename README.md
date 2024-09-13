@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Dark-Knight499/Dark-Knight499/blob/main/banner.png" alt="Banner" />
+  <img src="https://github.com/Dark-Knight499/Dark-Knight499/blob/main/banner.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Harsh Jain</h1>
