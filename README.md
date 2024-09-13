@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://github.com/Dark-Knight499/Dark-Knight499/blob/main/banner.jpg" alt="Banner" />
+  <img height="200" width="1000" src="https://github.com/Dark-Knight499/Dark-Knight499/blob/main/banner.jpg" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Harsh Jain</h1>
-
+<h1>Hi 👋, I'm Harsh Jain</h1>
 ---
-
 ## 🚀 About Me:
 
 <img align="right" alt="Coding" width="300" src="https://github.com/Dark-Knight499/Dark-Knight499/blob/main/readme_gif.gif">
@@ -89,7 +87,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dark-Knight499&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 <br/>
-
+<br>
+<br>
 ---
 
 ## 🏆 Achievements:
