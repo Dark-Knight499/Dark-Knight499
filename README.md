@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
 </p>
 
 <h1>Hi 👋, I'm Harsh Jain</h1>
@@ -105,3 +105,4 @@
   <a href="https://www.codechef.com/users/darkknight_03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/harshrajivjain10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" height="30" width="40" /></a>
 </p>
+](https://www.blackbox.ai/share/c00b1d8c-7fb4-4ed2-87f0-f8811664ca17?model=Claude-Sonnet-3.5)
