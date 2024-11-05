@@ -14,6 +14,8 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
+<img align="right" alt="Coding" width="300" src="https://github.com/Dark-Knight499/Dark-Knight499/blob/main/readme_gif.gif">
+
 ## 🚀 About Me
 
 
@@ -23,7 +25,6 @@ me.say_hi()
 - 🤝 **Collaborate With Me**: Always open to exciting projects
 
 ---
-<img align="right" alt="Coding" width="300" src="https://github.com/Dark-Knight499/Dark-Knight499/blob/main/readme_gif.gif">
 ## 🧩 Key Projects
 
 - 🔍 **[Cosmic-Hacktivist-Seismic-Detection](https://github.com/Dark-Knight499/Cosmic-Hacktivist-Seismic-Detection)** - Leveraging ML for seismic activity detection
